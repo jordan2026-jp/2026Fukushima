@@ -1,7 +1,7 @@
 /* Relative paths: works at username.github.io/repository/ and custom domains.
    Change VERSION when publishing an updated itinerary or app. */
 'use strict';
-const VERSION = '2026-10-01-app-1';
+const VERSION = '2026-10-01-app-2-autumn';
 const BASE = new URL('./', self.location.href);
 const PREFIX = 'fukushima-' + BASE.pathname + '-';
 const CACHE = PREFIX + VERSION;
